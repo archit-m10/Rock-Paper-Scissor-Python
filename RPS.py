@@ -6,8 +6,7 @@ import simplegui
 
 
 # Global variables that all functions know about.
-# DO NOT EDIT THESE GLOBAL VARIABLES
-# OR YOUR GAME WILL BREAK.
+
 COMPUTER_SCORE = 0
 HUMAN_SCORE = 0
 human_choice = ""
